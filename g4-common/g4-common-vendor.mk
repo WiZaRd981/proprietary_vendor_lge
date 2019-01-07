@@ -523,6 +523,15 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/lge/g4-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/libril-qc-radioconfig.so:system/vendor/lib/libril-qc-radioconfig.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/libril-qc-ltedirectdisc.so:system/vendor/lib/libril-qc-ltedirectdisc.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/librilqmiservices.so:system/vendor/lib/librilqmiservices.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/libvss_common_core.so:system/vendor/lib/libvss_common_core.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/libvss_common_idl.so:system/vendor/lib/libvss_common_idl.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/libvss_common_iface.so:system/vendor/lib/libvss_common_iface.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/libvss_nv_core.so:system/vendor/lib/libvss_nv_core.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so \
+    vendor/lge/g4-common/proprietary/vendor/lib/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so \
     vendor/lge/g4-common/proprietary/vendor/lib/librmp.so:system/vendor/lib/librmp.so \
     vendor/lge/g4-common/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/lge/g4-common/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
@@ -753,6 +762,15 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib64/libquipc_os_api.so:system/vendor/lib64/libquipc_os_api.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libril-qc-qmi-1.so:system/vendor/lib64/libril-qc-qmi-1.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libril-qcril-hook-oem.so:system/vendor/lib64/libril-qcril-hook-oem.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/libril-qc-radioconfig.so:system/vendor/lib64/libril-qc-radioconfig.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/libril-qc-ltedirectdisc.so:system/vendor/lib64/libril-qc-ltedirectdisc.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/librilqmiservices.so:system/vendor/lib64/librilqmiservices.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/libvss_common_core.so:system/vendor/lib64/libvss_common_core.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/libvss_common_idl.so:system/vendor/lib64/libvss_common_idl.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/libvss_common_iface.so:system/vendor/lib64/libvss_common_iface.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/libvss_nv_core.so:system/vendor/lib64/libvss_nv_core.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/libvss_nv_idl.so:system/vendor/lib64/libvss_nv_idl.so \
+    vendor/lge/g4-common/proprietary/vendor/lib64/libvss_nv_iface.so:system/vendor/lib64/libvss_nv_iface.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/librmp.so:system/vendor/lib64/librmp.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/librpmb.so:system/vendor/lib64/librpmb.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/librs_adreno.so:system/vendor/lib64/librs_adreno.so \
