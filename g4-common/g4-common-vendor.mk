@@ -826,8 +826,12 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so
 =======
     vendor/lge/g4-common/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so \
+<<<<<<< HEAD
     vendor/lge/g4-common/proprietary/vendor/bin/hw/rild:vendor/bin/hw/rild
 >>>>>>> 9363a532... Copy rild to vendor/bin/hw/rild
+=======
+    vendor/lge/g4-common/proprietary/vendor/qcril.db:system/vendor/qcril.db \
+>>>>>>> 57eda063... g4: ril - Use stock qcril.db
 
 PRODUCT_PACKAGES += \
     libcir_driver \
