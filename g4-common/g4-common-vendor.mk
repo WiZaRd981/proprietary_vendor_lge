@@ -790,6 +790,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:system/vendor/lib64/libxtwifi_ulp_adaptor.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so \
+    vendor/lge/g4-common/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
+    vendor/lge/g4-common/proprietary/lib64/libadropbox.so:system/lib64/libadropbox.so \
     vendor/lge/g4-common/proprietary/vendor/bin/hw/rild:vendor/bin/hw/rild
 
 PRODUCT_PACKAGES += \
