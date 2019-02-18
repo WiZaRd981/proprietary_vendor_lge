@@ -794,6 +794,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/lge/g4-common/proprietary/lib64/libadropbox.so:system/lib64/libadropbox.so \
     vendor/lge/g4-common/proprietary/vendor/qcril.db:system/vendor/qcril.db \
+    vendor/lge/g4-common/proprietary/lib64/libc.so:system/lib64/libc.so  \
+    vendor/lge/g4-common/proprietary/lib64/libart.so:system/lib64/libart.so \
+    vendor/lge/g4-common/proprietary/lib64/libbase.so:system/lib64/libbase.so \
+    vendor/lge/g4-common/proprietary/lib64/libbinder.so:system/lib64/libbinder.so \
+    vendor/lge/g4-common/proprietary/lib64/libutils.so:system/lib64/libutils.so \
+    vendor/lge/g4-common/proprietary/lib64/libandroid_runtime.so:system/lib64/libandroid_runtime.so \
+    vendor/lge/g4-common/proprietary/lib64/libnfc_nci_jni.so:system/lib64/libnfc_nci_jni.so \
     vendor/lge/g4-common/proprietary/vendor/bin/hw/rild:vendor/bin/hw/rild
 
 PRODUCT_PACKAGES += \
